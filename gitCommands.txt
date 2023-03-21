@@ -1,5 +1,9 @@
-git add .
+git pull // dateien runterziehen
 
-git commit -m "COMMIT"
+git pull --no-ff // wenn datein geändert wurden in github und über terminal gepusht wurde. Merge fehler
 
-git push
+git add . //hinzufügen
+
+git commit -m "COMMIT" //kommentieren
+
+git push //hochladen
