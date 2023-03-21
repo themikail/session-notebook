@@ -1,1 +1,3 @@
 mv altername neuername // NAME ÄNDERN
+
+mv datei /PFAD // DATEI VERSCHIEBEN
